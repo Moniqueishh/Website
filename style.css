@@ -1,0 +1,97 @@
+strong {
+    text-decoration: underline;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    padding: 20px;
+    max-width: 500px;
+}
+
+body {
+    background-image: url(https://t3.ftcdn.net/jpg/03/95/63/44/360_F_395634446_v7XRuDcW2BpJIvgFNChCIxzi1o45gzWS.jpg);
+    font-family: sans-serif;
+    padding: 20px;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#me {
+    border-image: 10px;
+    border-color: white;
+    max-width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+#summary {
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+}
+
+hr {
+        height: 2px;
+        background-color: purple;
+        border-color: purple;
+}
+
+.project {
+    color: color;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+button {
+    color: black;
+    border-color: brown;
+    background-color: aqua;
+    padding: 15px 32px;
+    font-size: 16px;
+    transition-duration: 0.4s;
+    margin-top: 20px;
+
+}
+
+button:hover {
+    background-color: #4CAF50; /* Green */
+    color: black;
+  }
+
+ul {
+    list-style: none;
+} 
+
+ul li {
+        display: inline;
+        padding: 5px;
+}
+
+.social img {
+    width: 50px;
+    border: 10px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  #footer {
+margin-left: auto;
+margin-right: auto; 
+  }
